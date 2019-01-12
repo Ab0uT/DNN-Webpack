@@ -1,0 +1,64 @@
+﻿<dotnetnuke type="ResourceFile" version="5.0">
+  <files>
+    <file>
+      <path>Scripts/</path>
+      <name>angular-resource.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>angular-resource.min.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>angular-resource.min.js.map</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>angular.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>angular.min.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>angular.min.js.map</name>
+    </file>
+    <file>
+      <path>Documentation/</path>
+      <name>Documentation.css</name>
+    </file>
+    <file>
+      <path>Documentation/</path>
+      <name>Documentation.html</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>Edit.resx</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>Settings.resx</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>View.resx</name>
+    </file>
+    <file>
+      <path />
+      <name>License.txt</name>
+    </file>
+    <file>
+      <path />
+      <name>module.css</name>
+    </file>
+    <file>
+      <path />
+      <name>ReleaseNotes.txt</name>
+    </file>
+    <file>
+      <path />
+      <name>View.html</name>
+    </file>
+  </files>
+</dotnetnuke>
